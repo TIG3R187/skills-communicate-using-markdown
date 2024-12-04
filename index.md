@@ -19,6 +19,9 @@
 
 
 
-var myvar = "Hello, World!";
+``` javascript
+var myVar = "Hello, world!";
+```
+
 
 this was changed to bring order
