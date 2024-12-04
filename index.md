@@ -1,7 +1,9 @@
 # <h1> header 1
 # <h2> header 2
 # <h6> header 3
-
+- [x] learn programming
+- [x] become a developer
+- [ ] introduce myself to the world
 
 
 
